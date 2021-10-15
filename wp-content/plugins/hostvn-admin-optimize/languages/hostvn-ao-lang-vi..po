@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hostvn Admin Optimize\n"
+"POT-Creation-Date: 2020-11-17 17:53+0700\n"
+"PO-Revision-Date: 2020-11-17 18:03+0700\n"
+"Last-Translator: \n"
+"Language-Team: Hostvn Team\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/Admin.php:33 admin/view/setting-page.php:29
+msgid "Hostvn Admin Optimize Settings"
+msgstr "Hostvn Admin Optimize Settings"
+
+#: admin/Admin.php:34
+msgid "Hostvn AO Settings"
+msgstr "Hostvn AO Settings"
+
+#: admin/Admin.php:108
+msgid "Ex: login"
+msgstr "Ví dụ: login"
+
+#: admin/Admin.php:268 admin/Admin.php:273
+msgid "Left"
+msgstr "Trái"
+
+#: admin/Admin.php:269 admin/Admin.php:274
+msgid "Right"
+msgstr "Phải"
+
+#: admin/Admin.php:299 admin/Admin.php:305 admin/Admin.php:311
+msgid "None"
+msgstr "Không"
+
+#: admin/Admin.php:300 admin/Admin.php:306 admin/Admin.php:312
+msgid "TLS"
+msgstr "TLS"
+
+#: admin/Admin.php:301 admin/Admin.php:307 admin/Admin.php:313
+msgid "SSL"
+msgstr "SSL"
+
+#: admin/Admin.php:329 admin/Admin.php:334
+msgid "Yes"
+msgstr "Có"
+
+#: admin/Admin.php:330 admin/Admin.php:335
+msgid "No"
+msgstr "Không"
+
+#: admin/Admin.php:496
+msgid "Disable Wordpress dashboard widget"
+msgstr "Tắt Wordpress dashboard widget"
+
+#: admin/Admin.php:498
+msgid "Disable Yoast Seo dashboard widget"
+msgstr "Tắt Yoast Seo dashboard widget"
+
+#: admin/Admin.php:500
+msgid "Disable Woocommerce dashboard widget"
+msgstr "Tắt Woocommerce dashboard widget"
+
+#: admin/Admin.php:502
+msgid "Disable plugins update"
+msgstr "Tắt cập nhật plugins"
+
+#: admin/Admin.php:503
+msgid "Disable theme update"
+msgstr "Tắt cập nhật theme"
+
+#: admin/Admin.php:504
+msgid "Disable Wordpress core update"
+msgstr "Tắt cập nhật Wordpress core"
+
+#: admin/Admin.php:505
+msgid "Disable Wordpress generator"
+msgstr "Tắt Wordpress generator meta tag"
+
+#: admin/Admin.php:506
+msgid "Disable login errors message"
+msgstr "Tắt thông báo lỗi đăng nhập"
+
+#: admin/Admin.php:507
+msgid "Enable reCaptcha in login form"
+msgstr "Bật reCaptcha trong form đăng nhập"
+
+#: admin/Admin.php:508
+msgid "reCaptcha site key"
+msgstr "reCaptcha site key"
+
+#: admin/Admin.php:509
+msgid "reCaptcha secret key"
+msgstr "reCaptcha secret key"
+
+#: admin/Admin.php:510
+msgid "Enable redirect to home page after login"
+msgstr "Bật chuyển hướng về trang chủ sau khi đăng nhập"
+
+#: admin/Admin.php:511
+msgid "Disable XMLRPC"
+msgstr "Tắt XMLRPC"
+
+#: admin/Admin.php:512
+msgid "Disable User API"
+msgstr "Tắt User API"
+
+#: admin/Admin.php:513
+msgid "Require login to access rest api"
+msgstr "Yêu cầu đăng nhập khi truy cập rest api"
+
+#: admin/Admin.php:514
+msgid "Enable maintenance mode"
+msgstr "Bật chế độ bảo trì"
+
+#: admin/Admin.php:515
+msgid "Disable Wordpress embed"
+msgstr "Tắt Wordpress embed"
+
+#: admin/Admin.php:516
+msgid "Disable Json Url"
+msgstr "Tắt Json Url"
+
+#: admin/Admin.php:517
+msgid "Disable Contact Form 7 JS/CSS"
+msgstr "Tắt Contact Form 7 JS/CSS"
+
+#: admin/Admin.php:518
+msgid "Remove scripts version"
+msgstr "Gỡ bỏ hiển thị phiên bản js/css"
+
+#: admin/Admin.php:519
+msgid "Slow heartbeat"
+msgstr "Làm chậm Wordpress heartbeat"
+
+#: admin/Admin.php:520
+msgid "Disable Wordpress feed"
+msgstr "Tắt Wordpress feed"
+
+#: admin/Admin.php:521
+msgid "Disable Wordpress RSD"
+msgstr "Tắt Wordpress RSD"
+
+#: admin/Admin.php:522
+msgid "Disable WLW manifest"
+msgstr "Tắt WLW manifest"
+
+#: admin/Admin.php:523
+msgid "Move Jquery to footer"
+msgstr "Di chuyển Jquery xuống footer"
+
+#: admin/Admin.php:524
+msgid "Optimize Woocommerce"
+msgstr "Tối ưu Woocommerce"
+
+#: admin/Admin.php:525
+msgid "Limit post revisions"
+msgstr "Giới hạn post revisions"
+
+#: admin/Admin.php:526
+msgid "Disable Gutenberg editor"
+msgstr "Tắt Gutenberg editor"
+
+#: admin/Admin.php:527
+msgid "Disable emoji"
+msgstr "Tắt emoji"
+
+#: admin/Admin.php:528
+msgid "SMTP host"
+msgstr "SMTP host"
+
+#: admin/Admin.php:529
+msgid "SMTP port"
+msgstr "SMTP port"
+
+#: admin/Admin.php:530
+msgid "SMTP Authenticate"
+msgstr "SMTP Authenticate"
+
+#: admin/Admin.php:531
+msgid "SMTP username"
+msgstr "SMTP username"
+
+#: admin/Admin.php:532
+msgid "SMTP password"
+msgstr "SMTP password"
+
+#: admin/Admin.php:533
+msgid "SMTP secure"
+msgstr "SMTP secure"
+
+#: admin/Admin.php:534
+msgid "SMTP from address"
+msgstr "Địa chỉ hiển thị"
+
+#: admin/Admin.php:535
+msgid "SMTP from name"
+msgstr "Tên người gửi"
+
+#: admin/Admin.php:536
+msgid "Enable floating contact button"
+msgstr "Bật contact button"
+
+#: admin/Admin.php:537
+msgid "Show hotline"
+msgstr "Hiển thị hotline"
+
+#: admin/Admin.php:538
+msgid "Facebook"
+msgstr "Facebook"
+
+#: admin/Admin.php:539
+msgid "Zalo"
+msgstr "Zalo"
+
+#: admin/Admin.php:540
+msgid "Skype"
+msgstr "Skype"
+
+#: admin/Admin.php:541
+msgid "Email"
+msgstr "Email"
+
+#: admin/Admin.php:542
+msgid "Hotline"
+msgstr "Hotline"
+
+#: admin/Admin.php:543
+msgid "Position"
+msgstr "Vị trí"
+
+#: admin/Admin.php:544
+msgid "Remove posts menu"
+msgstr "Ẩn menu bài viết"
+
+#: admin/Admin.php:545
+msgid "Remove media menu"
+msgstr "Ẩn media menu"
+
+#: admin/Admin.php:546
+msgid "Remove comments menu"
+msgstr "Ẩn menu bình luận"
+
+#: admin/Admin.php:547
+msgid "Remove appearance menu"
+msgstr "Ẩn menu giao diện"
+
+#: admin/Admin.php:548
+msgid "Remove plugins menu"
+msgstr "Ẩn menu plugins"
+
+#: admin/Admin.php:549
+msgid "Remove users menu"
+msgstr "Ẩn menu thành viên"
+
+#: admin/Admin.php:550
+msgid "Remove tools menu"
+msgstr "Ẩn menu công cụ"
+
+#: admin/Admin.php:551
+msgid "Remove settings menu"
+msgstr "Ẩn menu cài đặt"
+
+#: admin/Admin.php:552
+msgid "Remove pages menu"
+msgstr "Ẩn menu trang"
+
+#: admin/Admin.php:553
+msgid "Remove WooCommerce menu"
+msgstr "Ẩn WooCommerce menu"
+
+#: admin/Admin.php:554
+msgid "Remove products menu"
+msgstr "Ẩn menu sản phẩm"
+
+#: admin/Admin.php:555
+msgid "Remove Contact form 7 menu"
+msgstr "Ẩn Contact form 7 menu"
+
+#: admin/Admin.php:556
+msgid "Remove Flatsome menu"
+msgstr "Ẩn Flatsome menu"
+
+#: admin/Admin.php:557
+msgid "Enable CDN"
+msgstr "Bật CDN"
+
+#: admin/Admin.php:558
+msgid "CDN URL"
+msgstr "CDN URL"
+
+#: admin/Admin.php:559
+msgid "New Login URL"
+msgstr "Link đăng nhập mới"
+
+#: admin/view/setting-page.php:35
+msgid "Disable Update"
+msgstr "Tắt cập nhật"
+
+#: admin/view/setting-page.php:41
+msgid "Dashboard widget"
+msgstr "Dashboard widget"
+
+#: admin/view/setting-page.php:47
+msgid "Optimize"
+msgstr "Tối ưu"
+
+#: admin/view/setting-page.php:53
+msgid "Security"
+msgstr "Bảo mật"
+
+#: admin/view/setting-page.php:59
+msgid "Admin Menu"
+msgstr "Admin Menu"
+
+#: admin/view/setting-page.php:65
+msgid "Recaptcha"
+msgstr "Recaptcha"
+
+#: admin/view/setting-page.php:71
+msgid "Smtp"
+msgstr "Smtp"
+
+#: admin/view/setting-page.php:77
+msgid "CDN"
+msgstr "CDN"
+
+#: admin/view/setting-page.php:83
+msgid "Contact Button"
+msgstr "Contact Button"
+
+#: admin/view/setting-page.php:89
+msgid "Other"
+msgstr "Khác"
+
+#: includes/Extras.php:57
+msgid ""
+"<strong>Site offline for maintenance!</strong><br/>We will be back soon. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tPlease comeback later!"
+msgstr ""
+"<strong>Website đang bảo trì!</strong><br/> Chúng tôi sẽ sớm trở lại. \n"
+"\t\t\t\t\t\t\t\t\t\t\t\t\t\tVui lòng quay lại sau!"
+
+#: includes/Extras.php:60
+msgid "Site Offline For Maintenance"
+msgstr "Website đang trong quá trình bảo trì"
+
+#: includes/Optimize.php:57
+msgid "Request blocked."
+msgstr "Request bị chặn."
+
+#: includes/Optimize.php:115
+msgid "Feed disabled."
+msgstr "Feed đã bị vô hiệu hoá."
+
+#: includes/Optimize.php:228
+msgid "queries in"
+msgstr "queries trong"
+
+#: includes/Optimize.php:228
+msgid "seconds"
+msgstr "giây"
+
+#: includes/Recaptcha.php:20
+msgid "<strong>ERROR</strong>: Please verify that you are not a robot."
+msgstr "<strong>Lỗi</strong>: Vui lòng xác nhận bạn không phải robot."
+
+#: includes/Security.php:58
+msgid "Sorry, you must be logged in to make a request."
+msgstr "Xin lỗi, bạn phải đăng nhập để truy cập liên kết này."
+
+#: includes/Security.php:98
+msgid "Something is wrong!"
+msgstr "Có lỗi đã xảy ra. Vui lòng kiểm tra lại thông tin!"
